@@ -1,0 +1,2 @@
+# Triangle
+Javascript centered triangle
